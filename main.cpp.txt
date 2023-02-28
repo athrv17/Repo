@@ -15,8 +15,6 @@ void quicksort(){
 void merge(){
 }
 
-timepass 
-
 int main(){
 std::cout<<"Hello Ji";
 }
