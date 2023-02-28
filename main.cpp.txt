@@ -11,6 +11,10 @@ void quicksort(){
 //
 
 }
+
+void merge(){
+}
+
 int main(){
 std::cout<<"Hello Ji";
 }
